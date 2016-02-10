@@ -1,0 +1,56 @@
+body {
+  margin: 5px;
+  height: 100%;
+  width: 75%;
+}
+body.bg1 {
+  background: blue;
+  border: 10px solid green;
+}
+
+body.bg2 {
+  background: red;
+  border: 10px dashed orange;
+}
+
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+
+li {
+  display: block;
+}
+
+.big {
+  font-size: 32px;
+}
+
+.button-box {
+  border: 1px dotted blue;
+}
+
+.right {
+  position: fixed;
+  top: 10px;
+  margin-left: 75%;
+  width: 25%;
+}
+
+.right p {
+  padding: 20px;
+}
+
+
+strong{
+  color: red;
+  font-weight: normal;
+}
+
+em {
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+}
+
